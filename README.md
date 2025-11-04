@@ -28,7 +28,7 @@ This guide covers the essential steps for preventing hacking, malware infection,
 -  Block access to critical files like:
 
 # Clean Report (After Cleanup)
-![Clean Report](clean-report.png)
+![Clean Report](clean Report.png)
 > Example: Clean report showing malware removed and site status restored (sensitive info hidden).
 
 # If your WordPress site is hacked or you want a full security audit — I can help you clean, secure, and optimize it.  
