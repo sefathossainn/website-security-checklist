@@ -27,5 +27,9 @@ This guide covers the essential steps for preventing hacking, malware infection,
 -  Enable ModSecurity or similar firewall from cPanel  
 -  Block access to critical files like:
 
+# Clean Report (After Cleanup)
+![Clean Report](clean-report.png)
+> Example: Clean report showing malware removed and site status restored (sensitive info hidden).
+
 # If your WordPress site is hacked or you want a full security audit — I can help you clean, secure, and optimize it.  
  [Hire me on Upwork](https://www.upwork.com/freelancers/~014e6b01aa830bba30)
